@@ -8,7 +8,7 @@
   --grisaseo: hsl(229, 6%, 66%);
   --grisClaro: hsl(0, 0%, 98%);
   --blanco: #fff;
-  --verde: green;
+  /* --verde: green; */
 }
 
 html {
@@ -58,9 +58,9 @@ body {
   color: var(--grisaseo);
 }
 
-.verde {
+/* .verde {
   color: var(--verde);
-}
+} */
 
 .cards {
   display: flex;
