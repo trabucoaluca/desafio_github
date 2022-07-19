@@ -58,6 +58,10 @@ body {
   color: var(--grisaseo);
 }
 
+.verde {
+  color: var(--verde);
+}
+
 .cards {
   display: flex;
   gap: 3rem;
